@@ -1,0 +1,241 @@
+1
+College Avenue Student Center
+1
+The Yard
+1
+Student Activities Center (SAC)
+1
+Stadium West Lot
+1
+Hill Center
+1
+Science Buildings
+1
+Busch Student Center
+1
+Werblin Recreation Center
+1
+Livingston Student Center
+1
+Quads
+1
+Livingston Plaza
+1
+Busch-Livingston Health Center
+1
+Allison Road Classroom Building
+1
+SoCam Apartments
+1
+Red Oak Lane
+1
+Lipman Hall
+1
+Biel Road
+1
+Henderson Apartments
+1
+Gibbons
+1
+College Hall
+2
+College Avenue Student Center
+The Yard
+2
+The Yard
+Student Activities Center (SAC)
+2
+Student Activities Center (SAC)
+Stadium West Lot
+2
+Stadium West Lot
+Hill Center
+2
+Hill Center
+Science Buildings
+2
+Science Buildings
+Busch Student Center
+2
+Busch Student Center
+Werblin Recreation Center
+2
+Werblin Recreation Center
+College Avenue Student Center
+2
+Livingston Student Center
+Quads
+2
+Quads
+Hill Center
+2
+Hill Center
+Science Buildings
+2
+Science Buildings
+Busch Student Center
+2
+Busch Student Center
+Livingston Plaza
+2
+Livingston Plaza
+Livingston Student Center
+2
+Livingston Student Center
+Quads
+2
+Quads
+Busch-Livingston Health Center
+2
+Busch-Livingston Health Center
+Busch Student Center
+2
+Busch Student Center
+Allison Road Classroom Building
+2
+Allison Road Classroom Building
+Hill Center
+2
+Hill Center
+Livingston Plaza
+2
+Livingston Plaza
+Livingston Student Center
+2
+Stadium West Lot
+Hill Center
+2
+Hill Center
+Allison Road Classroom Building
+2
+Allison Road Classroom Building
+Hill Center
+2
+Hill Center
+Stadium West Lot
+2
+College Avenue Student Center
+The Yard
+2
+The Yard
+SoCam Apartments
+2
+SoCam Apartments
+Red Oak Lane
+2
+Red Oak Lane
+Lipman Hall
+2
+Lipman Hall
+Biel Road
+2
+Biel Road
+Henderson Apartments
+2
+Henderson Apartments
+Gibbons
+2
+Gibbons
+College Hall
+2
+College Hall
+SoCam Apartments
+2
+SoCam Apartments
+Student Activities Center (SAC)
+2
+Student Activities Center (SAC)
+College Avenue Student Center
+2
+Red Oak Lane
+Lipman Hall
+2
+Lipman Hall
+College Hall
+2
+College Hall
+Student Activities Center (SAC)
+2
+Student Activities Center (SAC)
+The Yard
+2
+The Yard
+Red Oak Lane
+2
+College Avenue Student Center
+The Yard
+2
+The Yard
+Student Activities Center (SAC)
+2
+Student Activities Center (SAC)
+Werblin Recreation Center
+2
+Werblin Recreation Center
+Busch Student Center
+2
+Busch Student Center
+Allison Road Classroom Building
+2
+Allison Road Classroom Building
+Hill Center
+2
+Hill Center
+Stadium West Lot
+2
+Stadium West Lot
+College Avenue Student Center
+2
+College Avenue Student Center
+The Yard
+2
+The Yard
+Student Activities Center (SAC)
+2
+Student Activities Center (SAC)
+Livingston Plaza
+2
+Livingston Plaza
+Livingston Student Center
+2
+Livingston Student Center
+Quads
+2
+Quads
+College Avenue Student Center
+2
+Red Oak Lane
+Lipman Hall
+2
+Lipman Hall
+College Hall
+2
+College Hall
+Hill Center
+2
+Hill Center
+Allison Road Classroom Building
+2
+Allison Road Classroom Building
+Busch Student Center
+2
+Busch Student Center
+Red Oak Lane
+2
+Red Oak Lane
+Lipman Hall
+2
+Lipman Hall
+College Hall
+2
+College Hall
+Livingston Plaza
+2
+Livingston Plaza
+Livingston Student Center
+2
+Livingston Student Center
+Red Oak Lane
+0
+The Yard
+Allison Road Classroom Building

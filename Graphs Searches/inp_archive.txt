@@ -1,0 +1,50 @@
+1
+Sanathnagar (Home)
+root
+1
+Begumpet Airport
+Sanathnagar (Home)
+1
+HITEC City
+Sanathnagar (Home)
+1
+Charminar
+Sanathnagar (Home)
+1
+Gachibowli
+HITEC City
+1
+Necklace Road
+Begumpet Airport
+1
+Hussain Sagar Lake
+Necklace Road
+1
+Tank Bund
+Hussain Sagar Lake
+1
+Lumbini Park
+Tank Bund
+1
+Banjara Hills
+Begumpet Airport
+1
+Kondapur
+Gachibowli
+1
+Secunderabad Railway Station
+Begumpet Airport
+1
+Golconda Fort
+Banjara Hills
+1
+Shamshabad Airport (RGIA)
+Gachibowli
+1
+Falaknuma Palace
+Charminar
+1
+Inorbit Mall
+HITEC City
+0
+Golconda Fort

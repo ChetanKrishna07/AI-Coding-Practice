@@ -1,0 +1,139 @@
+Added College Avenue Student Center
+Added The Yard
+Added Student Activities Center (SAC)
+Added Stadium West Lot
+Added Hill Center
+Added Science Buildings
+Added Busch Student Center
+Added Werblin Recreation Center
+Added Livingston Student Center
+Added Quads
+Added Livingston Plaza
+Added Busch-Livingston Health Center
+Added Allison Road Classroom Building
+Added SoCam Apartments
+Added Red Oak Lane
+Added Lipman Hall
+Added Biel Road
+Added Henderson Apartments
+Added Gibbons
+Added College Hall
+The Yard added to College Avenue Student Center
+Student Activities Center (SAC) added to The Yard
+Stadium West Lot added to Student Activities Center (SAC)
+Hill Center added to Stadium West Lot
+Science Buildings added to Hill Center
+Busch Student Center added to Science Buildings
+Werblin Recreation Center added to Busch Student Center
+College Avenue Student Center added to Werblin Recreation Center
+Quads added to Livingston Student Center
+Hill Center added to Quads
+Error: Science Buildings is already a child of Hill Center
+Error: Busch Student Center is already a child of Science Buildings
+Livingston Plaza added to Busch Student Center
+Livingston Student Center added to Livingston Plaza
+Error: Quads is already a child of Livingston Student Center
+Busch-Livingston Health Center added to Quads
+Busch Student Center added to Busch-Livingston Health Center
+Allison Road Classroom Building added to Busch Student Center
+Hill Center added to Allison Road Classroom Building
+Livingston Plaza added to Hill Center
+Error: Livingston Student Center is already a child of Livingston Plaza
+Error: Hill Center is already a child of Stadium West Lot
+Allison Road Classroom Building added to Hill Center
+Error: Hill Center is already a child of Allison Road Classroom Building
+Stadium West Lot added to Hill Center
+Error: The Yard is already a child of College Avenue Student Center
+SoCam Apartments added to The Yard
+Red Oak Lane added to SoCam Apartments
+Lipman Hall added to Red Oak Lane
+Biel Road added to Lipman Hall
+Henderson Apartments added to Biel Road
+Gibbons added to Henderson Apartments
+College Hall added to Gibbons
+SoCam Apartments added to College Hall
+Student Activities Center (SAC) added to SoCam Apartments
+College Avenue Student Center added to Student Activities Center (SAC)
+Error: Lipman Hall is already a child of Red Oak Lane
+College Hall added to Lipman Hall
+Student Activities Center (SAC) added to College Hall
+The Yard added to Student Activities Center (SAC)
+Red Oak Lane added to The Yard
+Error: The Yard is already a child of College Avenue Student Center
+Error: Student Activities Center (SAC) is already a child of The Yard
+Werblin Recreation Center added to Student Activities Center (SAC)
+Busch Student Center added to Werblin Recreation Center
+Error: Allison Road Classroom Building is already a child of Busch Student Center
+Error: Hill Center is already a child of Allison Road Classroom Building
+Error: Stadium West Lot is already a child of Hill Center
+College Avenue Student Center added to Stadium West Lot
+Error: The Yard is already a child of College Avenue Student Center
+Error: Student Activities Center (SAC) is already a child of The Yard
+Livingston Plaza added to Student Activities Center (SAC)
+Error: Livingston Student Center is already a child of Livingston Plaza
+Error: Quads is already a child of Livingston Student Center
+College Avenue Student Center added to Quads
+Error: Lipman Hall is already a child of Red Oak Lane
+Error: College Hall is already a child of Lipman Hall
+Hill Center added to College Hall
+Error: Allison Road Classroom Building is already a child of Hill Center
+Busch Student Center added to Allison Road Classroom Building
+Red Oak Lane added to Busch Student Center
+Error: Lipman Hall is already a child of Red Oak Lane
+Error: College Hall is already a child of Lipman Hall
+Livingston Plaza added to College Hall
+Error: Livingston Student Center is already a child of Livingston Plaza
+Red Oak Lane added to Livingston Student Center
+
+
+
+College Avenue Student Center: [[The Yard]]
+The Yard: [[Student Activities Center (SAC), SoCam Apartments, Red Oak Lane]]
+Student Activities Center (SAC): [[Stadium West Lot, College Avenue Student Center, The Yard, Werblin Recreation Center, Livingston Plaza]]
+Stadium West Lot: [[Hill Center, College Avenue Student Center]]
+Hill Center: [[Science Buildings, Livingston Plaza, Allison Road Classroom Building, Stadium West Lot]]
+Science Buildings: [[Busch Student Center]]
+Busch Student Center: [[Werblin Recreation Center, Livingston Plaza, Allison Road Classroom Building, Red Oak Lane]]
+Werblin Recreation Center: [[College Avenue Student Center, Busch Student Center]]
+Livingston Student Center: [[Quads, Red Oak Lane]]
+Quads: [[Hill Center, Busch-Livingston Health Center, College Avenue Student Center]]
+Livingston Plaza: [[Livingston Student Center]]
+Busch-Livingston Health Center: [[Busch Student Center]]
+Allison Road Classroom Building: [[Hill Center, Busch Student Center]]
+SoCam Apartments: [[Red Oak Lane, Student Activities Center (SAC)]]
+Red Oak Lane: [[Lipman Hall]]
+Lipman Hall: [[Biel Road, College Hall]]
+Biel Road: [[Henderson Apartments]]
+Henderson Apartments: [[Gibbons]]
+Gibbons: [[College Hall]]
+College Hall: [[SoCam Apartments, Student Activities Center (SAC), Hill Center, Livingston Plaza]]
+
+
+DFS Result: 
+Exploring The Yard: [[Student Activities Center (SAC), SoCam Apartments, Red Oak Lane]]
+Exploring Red Oak Lane: [[Lipman Hall]]
+Exploring Lipman Hall: [[Biel Road, College Hall]]
+Exploring College Hall: [[SoCam Apartments, Student Activities Center (SAC), Hill Center, Livingston Plaza]]
+Exploring Livingston Plaza: [[Livingston Student Center]]
+Exploring Livingston Student Center: [[Quads, Red Oak Lane]]
+Exploring Quads: [[Hill Center, Busch-Livingston Health Center, College Avenue Student Center]]
+Exploring College Avenue Student Center: [[The Yard]]
+Exploring Busch-Livingston Health Center: [[Busch Student Center]]
+Exploring Busch Student Center: [[Werblin Recreation Center, Livingston Plaza, Allison Road Classroom Building, Red Oak Lane]]
+Allison Road Classroom Building<-Busch Student Center<-Busch-Livingston Health Center<-Quads<-Livingston Student Center<-Livingston Plaza<-College Hall<-Lipman Hall<-Red Oak Lane<-The Yard
+Success
+
+
+BFS Result: 
+Exploring The Yard: [[Student Activities Center (SAC), SoCam Apartments, Red Oak Lane]]
+Exploring Student Activities Center (SAC): [[Stadium West Lot, College Avenue Student Center, The Yard, Werblin Recreation Center, Livingston Plaza]]
+Exploring SoCam Apartments: [[Red Oak Lane, Student Activities Center (SAC)]]
+Exploring Red Oak Lane: [[Lipman Hall]]
+Exploring Stadium West Lot: [[Hill Center, College Avenue Student Center]]
+Exploring College Avenue Student Center: [[The Yard]]
+Exploring Werblin Recreation Center: [[College Avenue Student Center, Busch Student Center]]
+Exploring Livingston Plaza: [[Livingston Student Center]]
+Exploring Lipman Hall: [[Biel Road, College Hall]]
+Exploring Hill Center: [[Science Buildings, Livingston Plaza, Allison Road Classroom Building, Stadium West Lot]]
+Allison Road Classroom Building<-Hill Center<-Stadium West Lot<-Student Activities Center (SAC)<-The Yard
+Success
